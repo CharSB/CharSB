@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharSB
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning CS50, Blender, Shaders
+- 👀 I’m interested in Game Development, Machine Learning & Computer Vision
+- 🌱 I’m currently learning Microsoft Face API, Unsupervised Machine Learning
 - 💞️ I’m looking to collaborate on an indie game
 - 📫 How to reach me Discord: CharSB#0185
 
