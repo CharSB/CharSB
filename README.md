@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CharSB
 - 👀 I’m interested in Game Development, Machine Learning & Computer Vision
-- 🌱 I’m currently learning Microsoft Face API, Unsupervised Machine Learning
-- 💞️ I’m looking to collaborate on an indie game
+- 🌱 I’m currently learning Supervised Machine Learning Algortihms for Audio Classification
 - 📫 How to reach me noahklpt@gmail.com
 
 <!---
